@@ -2,7 +2,7 @@
 # RelogiosVetoriais_C
 Base para a implementação de relógios vetoriais em C
 
-Participantes:
+Participantes:  
 André Lucas Ávila Lima - 201900016778  
 Paulo Ricardo de Jesus Lima - 201900017372  
 Samuel Augusto Souza Alves Santana - 201900017470
